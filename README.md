@@ -1,6 +1,6 @@
-# Hello and welcome to my portfolio
+# Aliah Alishlah
 
-My name is Aliah Alishlah
+
 [brief inroduction]
 
 I am a high school graduate with profound interest in technology and a dedication to solving complex problems.
